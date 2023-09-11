@@ -28,7 +28,7 @@ body {
     display: flex;
     flex-wrap: wrap;
     border-radius: 24px;
-    background-color: rgb(246, 246, 246);
+    background-color: rgb(235, 235, 235);
     cursor: pointer;
     overflow: hidden;
     max-width: clamp(320px, 70vw, 740px);
